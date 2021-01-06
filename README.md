@@ -2,7 +2,7 @@
 
 
 
-Cette répertoire contient ma réalisation des tp pour le module "architecture logicielle", enseigner par mon prof [Mohamed ELYAAKOUBI](https://github.com/elyaakoubi)  
+Ce répertoire contient ma réalisation des tp pour le module "architecture logicielle", enseigner par mon prof [Mohamed ELYAAKOUBI](https://github.com/elyaakoubi)  
 
 
 ## Enoncés du TP ❓
